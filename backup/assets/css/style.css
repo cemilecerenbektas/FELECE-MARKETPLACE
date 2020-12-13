@@ -1,0 +1,6 @@
+body{
+    background-color:#dfb8c2;font-size:1.2rem
+}
+@media (min-width: 768px){
+    .element{font-size:1.22rem;display:-ms-flexbox;display:flex}
+}.p{-moz-columns:12;columns:12}
